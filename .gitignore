@@ -1,0 +1,76 @@
+# ==================== Node.js ====================
+node_modules/
+package-lock.json
+.npm
+.yarn-integrity
+
+# ==================== 编译产物 ====================
+dist/
+build/
+out/
+*.js.map
+*.d.ts
+
+# ==================== 视频文件 (MP4) ====================
+*.mp4
+Video.mp4
+
+# ==================== 音频：忽略 WAV (中间量/生成产物) ====================
+*.wav
+
+# ==================== 音频：保留 MP3 (TTS远程请求的声音) ====================
+# 不忽略 *.mp3
+
+# ==================== 日志文件 ====================
+*.log
+remotion-studio.err.log
+remotion-studio.out.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==================== Remotion 渲染中间产物 ====================
+review-frames/
+out/
+
+# ==================== Python 相关 (脚本可能用到) ====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist-python/
+
+# ==================== IDE / 编辑器 ====================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# ==================== 系统文件 ====================
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# ==================== 环境变量 ====================
+.env
+.env.local
+.env.*.local
+
+# ==================== 其他临时文件 ====================
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# ==================== Spec Workflow 内部文件 ====================
+.spec-workflow/approvals/
+.spec-workflow/archive/

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "intro",
+    "startFrame": 60,
+    "endFrame": 360,
+    "english": "Beyond the headlines, everyday life in China is increasingly connected, convenient, and full of energy.",
+    "chinese": "在宏大的叙事之外，中国人的日常生活正变得更加互联、便利，也更有活力。"
+  },
+  {
+    "id": "digital-life",
+    "startFrame": 360,
+    "endFrame": 630,
+    "english": "A phone can guide a journey, open a metro gate, and complete a payment in seconds.",
+    "chinese": "一部手机，可以导航出行、通过地铁闸机，并在几秒内完成支付。"
+  },
+  {
+    "id": "logistics",
+    "startFrame": 630,
+    "endFrame": 930,
+    "english": "Behind each parcel is a logistics network linking warehouses, transport hubs, communities, and families.",
+    "chinese": "每一个包裹背后，都是连接仓库、枢纽、社区与家庭的物流网络。"
+  },
+  {
+    "id": "parcel-count",
+    "startFrame": 930,
+    "endFrame": 1260,
+    "english": "In 2025, China handled nearly two hundred billion express-delivery parcels, a number rooted in ordinary routines.",
+    "chinese": "2025年，中国快递业务量接近两千亿件，这个数字来自真实的日常生活。"
+  },
+  {
+    "id": "closing",
+    "startFrame": 1260,
+    "endFrame": 1500,
+    "english": "Through data, we see more than scale. We see the changing rhythm of life in modern China.",
+    "chinese": "透过数据，我们看到的不只是规模，更是现代中国生活节奏的变化。"
+  }
+]

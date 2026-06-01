@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx skills *)",
+      "WebFetch(domain:skills.sh)",
+      "Bash(npm install *)",
+      "Bash(npx tsc *)",
+      "Bash(npx remotion *)",
+      "Bash(curl -s http://localhost:3123)",
+      "Bash(curl -s \"http://localhost:3124\")"
+    ]
+  }
+}
